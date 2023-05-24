@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\cursedCsharp\cursedCsharp\bin\Debug\cursedCsharp.exe
+C:\Users\Admin\RiderProjects\cursedCsharp\cursedCsharp\bin\Debug\cursedCsharp.pdb
+C:\Users\Admin\RiderProjects\cursedCsharp\cursedCsharp\obj\Debug\cursedCsharp.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\cursedCsharp\cursedCsharp\obj\Debug\cursedCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\cursedCsharp\cursedCsharp\obj\Debug\cursedCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\cursedCsharp\cursedCsharp\obj\Debug\cursedCsharp.exe
+C:\Users\Admin\RiderProjects\cursedCsharp\cursedCsharp\obj\Debug\cursedCsharp.pdb
